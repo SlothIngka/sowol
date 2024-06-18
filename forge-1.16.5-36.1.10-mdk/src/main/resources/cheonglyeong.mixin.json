@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.sowol.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinHyper",
+    "MixinModList"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "cheonglyeong.mixin-refmap.json"
+}
